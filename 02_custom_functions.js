@@ -45,7 +45,7 @@ const time_limit = function(data, next) {
     // Reminds the participant to respond after 5 seconds
     window.timeout.push(setTimeout(function(){
           $('#reminder').text('Please answer more quickly!');
-    }, 5000));
+    }, 7500));
     next();
 };
 
@@ -53,9 +53,9 @@ const time_limit = function(data, next) {
 check_response = function(data, next) {
     $('input[name=answer]').on('change', function(e) {
         if (e.target.value === data.correct) {
-            alert('Your answer is correct! Yey!');
+            alert('Correct');
         } else {
-            alert('Sorry, this answer is incorrect :( The correct answer was ' + data.correct);
+            alert('Incorrect');
         }
         next();
     })

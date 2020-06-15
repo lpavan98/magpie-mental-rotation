@@ -9,3 +9,7 @@
 // and has to call magpie.findNextView() eventually to proceed to the next view (or the next trial in this view),
 // if it is an trial view it also makes sense to call magpie.trial_data.push(trial_data) to save the trial information
 
+// In this file you can create your own custom view templates
+
+// First we create a custom_views object
+
