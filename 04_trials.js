@@ -7,8 +7,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 						
         },
         {
@@ -18,8 +18,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/13_150_different.jpg",
@@ -28,8 +28,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/13_150_same.jpg",
@@ -38,8 +38,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/14_50_different.jpg",
@@ -48,8 +48,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/14_50_same.jpg",
@@ -58,8 +58,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/14_150_different.jpg",
@@ -68,8 +68,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/14_150_same.jpg",
@@ -78,8 +78,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 			
         },
         {
@@ -89,8 +89,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 			
         },
         {
@@ -100,8 +100,8 @@ const practice_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 			
         },
         {
@@ -111,8 +111,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 			
         },
         {
@@ -122,8 +122,8 @@ const practice_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 			
         },
     ],
@@ -138,8 +138,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
 
         },
         {
@@ -149,8 +149,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
 
         },
         {
@@ -160,8 +160,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/1_150_different.jpg",
@@ -170,8 +170,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/2_50_same.jpg",
@@ -180,8 +180,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/2_50_different.jpg",
@@ -190,8 +190,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/2_150_same.jpg",
@@ -200,8 +200,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/2_150_different.jpg",
@@ -210,8 +210,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
 
         {
@@ -221,8 +221,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/3_50_different.jpg",
@@ -231,8 +231,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/3_150_same.jpg",
@@ -241,8 +241,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/3_150_different.jpg",
@@ -251,8 +251,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
 
         {
@@ -262,8 +262,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/4_50_different.jpg",
@@ -272,8 +272,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/4_150_same.jpg",
@@ -282,8 +282,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/4_150_different.jpg",
@@ -292,8 +292,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
 
         {
@@ -303,8 +303,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/5_50_different.jpg",
@@ -313,8 +313,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/5_150_same.jpg",
@@ -323,8 +323,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/5_150_different.jpg",
@@ -333,8 +333,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/6_50_same.jpg",
@@ -343,8 +343,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/6_50_different.jpg",
@@ -353,8 +353,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/6_150_same.jpg",
@@ -363,8 +363,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/6_150_different.jpg",
@@ -373,8 +373,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
 
         {
@@ -384,8 +384,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/7_50_different.jpg",
@@ -394,8 +394,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/7_150_same.jpg",
@@ -404,8 +404,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/7_150_different.jpg",
@@ -414,8 +414,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
 
         {
@@ -425,8 +425,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/8_50_different.jpg",
@@ -435,8 +435,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/8_150_same.jpg",
@@ -445,8 +445,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/8_150_different.jpg",
@@ -455,8 +455,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
 
         {
@@ -466,8 +466,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/9_50_different.jpg",
@@ -476,8 +476,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/9_150_same.jpg",
@@ -486,8 +486,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/9_150_different.jpg",
@@ -496,8 +496,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/10_50_same.jpg",
@@ -506,8 +506,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/10_50_different.jpg",
@@ -516,8 +516,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/10_150_same.jpg",
@@ -526,8 +526,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/10_150_different.jpg",
@@ -536,8 +536,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different', 
+			j: 'same',
+			f: 'different', 
         },
         {
             picture: "pictures/11_50_same.jpg",
@@ -546,8 +546,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/11_50_different.jpg",
@@ -556,8 +556,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/11_150_same.jpg",
@@ -566,8 +566,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/11_150_different.jpg",
@@ -576,8 +576,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/12_50_same.jpg",
@@ -586,8 +586,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/12_50_different.jpg",
@@ -596,8 +596,8 @@ const main_info = {
             rotation: 50,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/12_150_same.jpg",
@@ -606,8 +606,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
         {
             picture: "pictures/12_150_different.jpg",
@@ -616,8 +616,8 @@ const main_info = {
             rotation: 150,
 			key1: 'f',
 			key2: 'j',
-			f: 'same',
-			j: 'different',
+			j: 'same',
+			f: 'different',
         },
     ],
 };
